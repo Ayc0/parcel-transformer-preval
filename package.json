@@ -1,6 +1,6 @@
 {
   "name": "parcel-transformer-preval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pre-evaluate code at build-time",
   "main": "src/index.js",
   "repository": "git@github.com:Ayc0/parcel-transformer-preval.git",
