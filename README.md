@@ -109,7 +109,7 @@ This plugin doesn’t support:
 - preval file comments: `// @preval`
 - exporting a function.
 
-The reason behind the 4 first differences is because when using it in bigger projects, we realized that being able to easily understand in which environment the code will run.
+The reason behind the first 4 differences is: when using preval in bigger projects, we wanted to easily understand in which environment each file/line of code would run. And so we decided to only be able to run preval on whole files, based on their filename (the env is collocated with the file itself in its name, instead of being set in another file's imports).
 
 So instead of having to tell mention from another file that the file we’re importing needs to be prevaled (the import comments and `preval.require`), we found that the file name was a better indicator to reviewers.
 As the transformer is now only based on the file name, there is no need for `@preval` comments.
