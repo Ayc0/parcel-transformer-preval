@@ -6,6 +6,9 @@
   "repository": "git@github.com:Ayc0/parcel-transformer-preval.git",
   "author": "Ayc0 <ayc0.benj@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "parcel": "2.x"
+  },
   "dependencies": {
     "@parcel/plugin": "^2.8.0",
     "require-from-string": "^2.0.2"
