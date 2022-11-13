@@ -201,7 +201,7 @@
   dependencies:
     "@parcel/plugin" "2.8.0"
 
-"@parcel/config-default@^2.8.0":
+"@parcel/config-default@^2.0.0":
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/@parcel/config-default/-/config-default-2.8.0.tgz#15482a8ef411d353a59af16fdfe0894761b12a56"
   integrity sha512-j9g50QNSLjuNpY0TP01EgGJPxWNes9d+e8+N07Z5Wv0u+UUnJ2uIOpo7PVn7ullOGhm1f9lP4KsJenu5gWb+cg==
@@ -237,7 +237,7 @@
     "@parcel/transformer-react-refresh-wrap" "2.8.0"
     "@parcel/transformer-svg" "2.8.0"
 
-"@parcel/core@^2.8.0":
+"@parcel/core@^2.0.0":
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/@parcel/core/-/core-2.8.0.tgz#fe97ea2d0eb4504f149ecc7fbb0dcfe2d66a20b9"
   integrity sha512-udzbe3jjbpfKlRE9pdlROAa+lvAjS1L/AzN6r2j1y/Fsn7ze/NfvnCFw6o2YNIrXg002aQ7M1St/x1fdGfmVKA==
@@ -287,7 +287,7 @@
   dependencies:
     detect-libc "^1.0.3"
 
-"@parcel/fs@2.8.0", "@parcel/fs@^2.8.0":
+"@parcel/fs@2.8.0", "@parcel/fs@^2.0.0":
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/@parcel/fs/-/fs-2.8.0.tgz#70915a9b81174b9ee7c793e1f0850b97ff060e4a"
   integrity sha512-v3DbJlpl8v2/VRlZPw7cy+0myi0YfLblGZcwDvqIsWS35qyxD2rmtYV8u1BusonbgmJeaKiopSECmJkumt0jCw==
@@ -469,7 +469,7 @@
     "@parcel/utils" "2.8.0"
     posthtml "^0.16.4"
 
-"@parcel/plugin@2.8.0", "@parcel/plugin@^2.8.0":
+"@parcel/plugin@2.8.0", "@parcel/plugin@^2.0.0":
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/@parcel/plugin/-/plugin-2.8.0.tgz#eb6acbb17110ecba4d3c283fc073ffa9531ac0b6"
   integrity sha512-Tsf+7nDg7KauvTVY6rGc7CmgJruKSwJ54KJ9s5nYFFP9nfwmyqbayCi9xOxicWU9zIHfuF5Etwf17lcA0oAvzw==

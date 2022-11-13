@@ -10,16 +10,16 @@
     "parcel": "2.x"
   },
   "dependencies": {
-    "@parcel/plugin": "^2.8.0",
+    "@parcel/plugin": "^2.0.0",
     "require-from-string": "^2.0.2"
   },
   "files": [
     "src"
   ],
   "devDependencies": {
-    "@parcel/config-default": "^2.8.0",
-    "@parcel/core": "^2.8.0",
-    "@parcel/fs": "^2.8.0",
+    "@parcel/config-default": "^2.0.0",
+    "@parcel/core": "^2.0.0",
+    "@parcel/fs": "^2.0.0",
     "ava": "^5.0.1",
     "parcel-transformer-preval": "link:."
   },
